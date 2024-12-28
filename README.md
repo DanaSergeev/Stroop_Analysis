@@ -5,7 +5,9 @@ Analysis of Stroop test results for subjects
 הנתונים שעסקנו בהם הם תוצאות של ניסוי Stroop שבו נמדדו זמן התגובה (reaction time, rt) למילים שונות, 
 כאשר המילים היו משויכות למשימות מסוגים שונים (task: כמו "ink_naming" ו-"word_reading"), ובתנאים של congruency (התאמה בין המילה לצבע – "congruent" או "incongruent").
 
-## התקנות של: dplyr
+## התקנות שנעשו:
+ ggplot2, ggdist ,dplyr
+ 
 ### הערות: הוצאו צעדים מעל 3 שניות ומתחת ל 0.3 שניות 
 
 ## תוצאות
